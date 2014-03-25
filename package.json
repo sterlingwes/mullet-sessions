@@ -1,0 +1,13 @@
+{
+    "name": "mullet sessions",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "client-sessions": "",
+        "underscore": ""
+    },
+    "main": "main.js",
+    "mullet": {
+        "priority": -1000
+    }
+}
