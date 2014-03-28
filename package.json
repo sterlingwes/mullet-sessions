@@ -7,7 +7,5 @@
         "underscore": ""
     },
     "main": "main.js",
-    "mullet": {
-        "priority": -1000
-    }
+    "mullet": {}
 }
